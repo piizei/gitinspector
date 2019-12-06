@@ -1,3 +1,8 @@
+# This is a fork of Gitinspector
+
+- Added support of Typescript, Go, Terraform and Markdown
+
+
 [![Latest release](https://img.shields.io/github/release/ejwa/gitinspector.svg?style=flat-square)](https://github.com/ejwa/gitinspector/releases/latest)
 [![License](https://img.shields.io/github/license/ejwa/gitinspector.svg?style=flat-square)](https://github.com/ejwa/gitinspector/blob/master/LICENSE.txt)
 <h2>
